@@ -1,7 +1,7 @@
 
 # Rapport
 
-**Skriv din rapport här!**
+** Jag har gått in i "strings" XML filen och ändrat stringen "hello" till "fint väder" istället.**
 
 _Du kan ta bort all text som finns sedan tidigare_.
 
